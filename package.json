@@ -1,0 +1,32 @@
+{
+  "name": "kennethallen-cloud",
+  "version": "1.0.0",
+  "description": "Kennethallen-cloud is a Node.js module containing interesting functions for data processing and manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KennethAllen8073404/kennethallen-cloud"
+  },
+  "dependencies": {
+	  "johnyoung1": "1.0.0",
+	  "johnyoung1-js": "1.0.0",
+	  "ls-v1-func": "1.0.0",
+"potapovvlad": "1.0.0",
+"selivanovpetr": "1.0.0",
+"susanmartin": "1.0.0",
+"morozz": "1.0.0",
+"mode-tobogunbar": "1.0.0",
+"mod-petrivany": "1.0.0",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KennethAllen8073404/kennethallen-cloud/issues"
+  },
+  "homepage": "https://github.com/KennethAllen8073404/kennethallen-cloud#readme"
+}
